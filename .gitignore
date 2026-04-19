@@ -32,3 +32,4 @@ checkpoints/
 # Local env
 .env
 *.env
+slurm-*.out
